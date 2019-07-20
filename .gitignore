@@ -19,7 +19,7 @@ npm-debug.log
 /tmp
 /public/css
 /public/js
-
+/conf/application.conf
 
 /ui/build
 /ui/dist
